@@ -26,8 +26,6 @@ Busco constantemente aprimorar minhas habilidades e estou sempre aberto a novos 
 
 ### DevOps e Ferramentas
 - Git & GitHub
-- Docker
-- Postman
 - Visual Studio Code
 
 ---
