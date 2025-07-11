@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-duarte-884694254/)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lukas_duarte_dasilva@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5583999625329)
+
 
 ---
 
@@ -58,7 +58,7 @@ Sempre busco evoluir minhas habilidades técnicas e contribuir para projetos que
 
 - 📧 **E-mail:** [lukas_duarte_dasilva@outlook.com](mailto:lukas_duarte_dasilva@outlook.com)
 - 💼 **LinkedIn:** [linkedin.com/in/lucas-duarte-884694254](https://www.linkedin.com/in/lucas-duarte-884694254/)
-- 💬 **WhatsApp:** [+55 83 99962-5329](https://wa.me/5583999625329)
+
 
 ---
 
